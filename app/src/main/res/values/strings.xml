@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DTMF Decoder</string>
+    <string name="toggleOff">Dekoduj</string>
+    <string name="toggleOn">Stop</string>
+    <string name="clear">Wyczyść</string>
+    <string name="decodedText">Dekodowane sygnały</string>
+</resources>
